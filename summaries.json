@@ -1,0 +1,1298 @@
+[
+    {
+    "title": "Atomic Habits",
+    "Author": "James Clear",
+    "genre": ["self-help"],
+    "Rating": "4.5 ⭐",
+    "Approximate_reading_time": 8,
+    "Pages": "~320 pages",
+    "summary": "No matter your goals, Atomic Habits offers a proven framework for improving—every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results.",
+    "verdict": "A must-read for anyone wanting practical, scientifically backed habit-change strategies. Actionable, clear, and approachable. Great for everyday self-improvement.",
+    "tags": ["habits", "behavior", "personal development", "productivity", "focus","self-help"]
+    },
+
+    {
+    "title": "The Power of Habit",
+    "Author": "Charles Duhigg",
+    "genre": ["self-help","psychology","human behaviour"],
+    "Rating": "4.38 ⭐",
+    "Approximate_reading_time": 13,
+    "Pages": "371-416 pages",
+    "summary": "The Power of Habit by Charles Duhigg explores how habits shape our lives, breaking them down into a simple loop: cue, routine, and reward. By understanding habits, you can control them instead of letting them control you.",
+    "verdict": "Highly recommended for those interested in the science behind habits, organizational change, and personal transformation.",
+    "tags": ["habits", "personal development", "productivity", "focus","self-help","cognitive bias", "psychology", "irrationality", "happiness", "personality", "EQ", "intuition", "neurology", "concentration","decision-making", "behavior"]
+    },
+
+    {
+    "title": "Mindset",
+    "Author": "Carol Dweck",
+    "genre": ["self-help","career","education","skills"],
+    "Rating": "4.25 ⭐",
+    "Approximate_reading_time": 7,
+    "Pages": "~250 pages",
+    "summary": "Mindset by Carol Dweck explains how your beliefs shape your success. She says there are two mindsets: fixed (thinking talent is set in stone) and growth (believing you can improve with effort). People with a growth mindset learn from failures and achieve more. The book teaches how to shift your thinking to unlock your potential.",
+    "verdict": "Essential for people who want to embrace a growth mindset that can transform learning and resilience.",
+    "tags": ["skills", "career", "learning", "education", "generalization", "craft", "talent", "study techniques", "skill acquisition","mental strength", "behavior", "personal development", "resilience", "focus","self-help"]
+    },
+    
+    {
+    "title": "The 7 Habits of Highly Effective People",
+    "Author": "Stephen Covey",
+    "genre": ["self-help"],
+    "Rating": "4.32 ⭐",
+    "Approximate_reading_time": 12,
+    "Pages": "~390 pages",
+    "summary": "The 7 Habits of Highly Effective People by Stephen Covey is a guide to success through principles like taking initiative, setting goals, prioritizing, collaborating, and self-improvement. It teaches how small, consistent habits lead to big results.",
+    "verdict": "A classic in personal development. Best for those wanting a structured, principle-centered framework. May feel dense or philosophical for some, but powerful if applied.",
+    "tags": ["habits", "behavior", "personal development", "organization", "focus","psychology","self-help"]
+    },
+    
+    {
+    "title": "Deep Work",
+    "Author": "Cal Newport",
+    "genre": ["self-help","productivity","time-management","career","education","skills"],
+    "Rating": "4.25 ⭐",
+    "Approximate_reading_time": 8,
+    "Pages": "~300 pages",
+    "summary": "Deep Work by Cal Newport explains that focused, distraction-free work is the key to producing high-quality results and mastering difficult skills. In a world full of noise, those who train themselves to work deeply will stand out. The key takeaways are: avoid shallow tasks, schedule deep work time, limit social media, and create routines that support focus.",
+    "verdict": "A standout for knowledge workers, creatives, or anyone battling distraction. Offers compelling science and pragmatic strategies to cultivate intense focus. Highly recommended.",
+    "tags": ["management", "behavior", "personal development", "organization", "focus","psychology", "philosophy","prioritization", "procrastination", "workflow", "essentialism", "time blocks", "lifestyle design", "automation","deep work","efficiency","self-help","skills", "career", "learning", "education", "talent", "skill acquisition"]
+    },
+
+    {
+    "title": "You Are a Badass",
+    "Author": "Jen Sincero",
+    "genre": ["self-help","inspirational","motivational"],
+    "Rating": "4.28 ⭐",
+    "Approximate_reading_time": 7,
+    "Pages": "~200 pages",
+    "summary": "You Are a Badass is a motivational book that helps you believe in yourself and take control of your life. Jen Sincero mixes humor with real talk to show that your thoughts shape your reality. Key lessons include: stop doubting your worth, drop negative self-talk, trust the universe, and take bold action toward your goals. The book pushes you to stop playing small and start living fully and confidently.",
+    "verdict": "Lively and motivational, with bold language and affirmations. Great for readers needing a pep talk more than deep theory of change. Uplifting but less rigorous.",
+    "tags": ["self-help","psychology","grit", "success", "positive thinking", "belief", "life lessons", "self-confidence", "growth mindset","motivation", "inspiration", "confidence", "resilience", "mental strength", "personal development"]
+    },
+
+    {
+    "title": "The Life Changing Magic of Tidying Up",
+    "Author": "Marie Kondo",
+    "genre": ["self-help"],
+    "Rating": "3.9 ⭐",
+    "Approximate_reading_time": 6,
+    "Pages": "~200 pages",
+    "summary": "This book teaches that tidying your space can transform your life. Marie Kondo introduces the KonMari Method, where you only keep items that spark joy. Key takeaways include decluttering by category (not by location), thanking your belongings, and creating a peaceful, intentional living space.",
+    "verdict": "A niche gem for anyone struggling with clutter or seeking a ritual to transform their space—and mindset too. Very focused advice; applicable beyond tidying.",
+    "tags": ["lifestyle", "behavior", "personal development", "organization", "productivity","psychology","self-help"]
+    },
+
+    {
+    "title": "How to Win Friends and Influence People",
+    "Author": "Dale Carnegie",
+    "genre": ["self-help"],
+    "Rating": "4.32 ⭐",
+    "Approximate_reading_time": 6.5,
+    "Pages": "~300 pages",
+    "summary": "This classic shows how to build strong relationships through kindness, empathy, and good communication. Carnegie teaches that remembering names, showing genuine interest, and avoiding criticism can make people like and respect you. The key lesson: people want to feel valued — treat them that way.",
+    "verdict": "Timeless classic on social and communication skills. Still incredibly relevant for networking, leadership, and personal growth. A must-read in the self-help canon.",
+    "tags": ["communication", "behavior", "personal development", "relationships","psychology","self-help"]
+    },
+
+    {
+    "title": "Grit",
+    "Author": "Angela Duckworth",
+    "genre": ["self-help","inspirational","motivational"],
+    "Rating": "4.18 ⭐",
+    "Approximate_reading_time": 8,
+    "Pages": "~350 pages",
+    "summary": "Duckworth explains that talent alone isn’t enough; success comes from grit — a mix of passion and perseverance. She shares stories and research proving that long-term effort beats quick bursts of motivation. The key idea: stick with your goals, even when progress feels slow.",
+    "verdict": "In this must-read book for anyone striving to succeed, pioneering psychologist Angela Duckworth shows parents, educators, students, and business people both seasoned and new that the secret to outstanding achievement is not talent but a focused persistence called grit.",
+    "tags": ["education","leadership", "success", "positive thinking", "belief", "life lessons", "self-confidence", "growth mindset","motivation", "inspiration", "confidence", "resilience","mental strength", "behavior", "personal development", "productivity", "focus","psychology", "grit","self-help"]
+    },
+
+    {
+    "title": "Awaken the Giant Within",
+    "Author": "Tony Robbins",
+    "genre": ["self-help"],
+    "Rating": "4.2 ⭐",
+    "Approximate_reading_time": 14,
+    "Pages": "~550 pages",
+    "summary": "This book is about taking control of your emotions, thoughts, and actions to build the life you want. Robbins explains that your decisions shape your destiny, not your circumstances. Key takeaways include mastering your mind, asking empowering questions, and taking massive, consistent action.",
+    "verdict": "In this powerful self-help classic, Tony Robbins shows that lasting personal change comes from mastering your emotions, decisions, and habits. With practical tools and mindset shifts, he helps readers take control of their lives and unlock their true potential. A must-read for anyone ready to take charge and grow.",
+    "tags": ["productivity", "behavior", "personal development", "organization", "finance","psychology","self-help"]
+    },
+
+    {
+    "title": "Rich Dad Poor Dad ",
+    "Author": "Robert Kiyosaki",
+    "genre": ["finance","investing"],
+    "Rating": "4.15 ⭐",
+    "Approximate_reading_time": 5,
+    "Pages": "~215 pages",
+    "summary": "Rich Dad Poor Dad is Robert's story of growing up with two dads — his real father and the father of his best friend, his rich dad — and the ways in which both men shaped his thoughts about money and investing. The book explodes the myth that you need to earn a high income to be rich and explains the difference between working for money and having your money work for you.",
+    "verdict": "Best for readers exploring financial mindset shifts, DIY investing, entrepreneurship mindset.Criticized for being anecdotal and light on detailed guidance—good as a first step, not a complete blueprint.",
+    "tags": ["financial education", "psychology", "investing", "decision-making", "budgeting", "wealth habits","saving" , "entrepreneurship", "personal finance"]
+    },
+
+    {
+    "title": "The Psychology of Money ",
+    "Author": "Morgan Housel",
+    "genre": ["finance","investing"],
+    "Rating": "4.4 ⭐",
+    "Approximate_reading_time": 6,
+    "Pages": "~250 pages",
+    "summary": "The Psychology of Money by Morgan Housel shows that financial success depends more on behavior and mindset than raw intelligence. It explains how luck, risk, patience, and personal experiences shape the way people handle money. The book encourages saving consistently, avoiding reckless risks, and valuing independence over status. In the end, it teaches that managing emotions is the key to lasting wealth.",
+    "verdict": "Highly recommended. Offers 19 compact, story-driven chapters on behavioral aspects of money—risk, compounding, wealth & happiness. Ideal for anyone seeking a better relationship with money, not a step-by-step investing manual. ",
+    "tags": ["financial education", "personal finance", "investing", "decision-making", "budgeting", "frugality", "stock market", "wealth habits", "index funds","saving"]
+    },
+
+    {
+    "title": "The Intelligent Investor",
+    "Author": "Benjamin Graham",
+    "genre": ["finance","investing"],
+    "Rating": "4.3 ⭐",
+    "Approximate_reading_time": 20,
+    "Pages": "~750 pages",
+    "summary": "This timeless investment classic teaches value investing, where careful analysis and patience are more important than hype or quick profits. Graham’s key idea is to protect yourself from big losses and aim for long-term gains through disciplined investing.",
+    "verdict": "This is a must-read for anyone serious about investing. It doesn't promise quick profits but instead teaches how to think long-term, avoid major losses, and stay emotionally steady in volatile markets. Ideal for patient investors looking to build wealth through discipline rather than speculation.",
+    "tags": ["financial education", "investing", "decision-making", "budgeting", "frugality", "stock market", "wealth habits", "index funds","saving"]
+    },
+
+    {
+    "title": "Your Money or Your Life",
+    "Author": "Vicki Robin",
+    "genre": ["finance","investing"],
+    "Rating": "3.99 ⭐",
+    "Approximate_reading_time": 11,
+    "Pages": "~400 pages",
+    "summary": "This book teaches how to transform your relationship with money by tracking expenses, reducing wasteful spending, and aligning spending with personal values. It’s about achieving financial independence through conscious living.",
+    "verdict": "A life-changing guide if you want realignment of money and life goals. Combines financial tracking with emotional insights. Best for readers wanting mindful spending and financial independence.",
+    "tags": ["financial education", "personal finance", "investing", "decision-making", "budgeting", "frugality", "wealth habits","saving"]
+    },
+
+    {
+    "title": "Thinking in Bets",
+    "Author": "Annie Duke",
+    "genre": ["finance","investing"],
+    "Rating": "3.9 ⭐",
+    "Approximate_reading_time": 9,
+    "Pages": "~300 pages",
+    "summary": "Written by a professional poker player, this book explores decision-making under uncertainty. Duke encourages readers to think probabilistically and to separate outcomes from the quality of decisions.",
+    "verdict": "Recommended for decision-makers. Teaches probabilistic thinking in uncertain environments. Great for investing, business strategy, and life choices.",
+    "tags": ["financial education", "decision-making", "frugality", "stock market", "wealth habits", "saving"]
+    },
+
+    {
+    "title": "I Will Teach You to Be Rich",
+    "Author": "Ramit Sethi",
+    "genre": ["finance","investing"],
+    "Rating": "4.2 ⭐",
+    "Approximate_reading_time": 10,
+    "Pages": "~350 pages",
+    "summary": "A fun, no-fluff guide for young adults on budgeting, saving, investing, and automating finances, with a strong emphasis on guilt-free spending and smart systems.",
+    "verdict": " A hands-on style guide to money management for young professionals. Practical tips on saving, banking, investing, and spending intentionally. Engaging and modern.",
+    "tags": ["financial education", "passive income", "investing", "decision-making", "budgeting", "frugality", "wealth habits", "index funds","saving"]
+    },
+
+    {
+    "title": "The Little Book of Common Sense Investing",
+    "Author": "John Bogle",
+    "genre": ["finance","investing"],
+    "Rating": "4.15 ⭐",
+    "Approximate_reading_time": 6,
+    "Pages": "~220 pages",
+    "summary": "Bogle makes a strong case for buying and holding index funds rather than chasing hot stocks. He explains how fees and emotions ruin returns over time. The book is simple, clear, and timeless. Key Learning: Own the entire market through index funds, and let compounding work for you.",
+    "verdict": "Focused, zero-fluff, compelling for minimizing fees and investor inertia. If you’re someone who likes hands-on investing and spotting trends early, this book is encouraging and insightful without being overly technical. A powerful complement to “Random Walk.”",
+    "tags": ["financial education", "passive income", "investing", "decision-making", "budgeting", "frugality", "stock market", "wealth habits", "index funds","saving"]
+    },
+
+    {
+    "title": "The Millionaire Next Door",
+    "Author": "Thomas J. Stanley",
+    "genre": ["finance","investing"],
+    "Rating": "4.05 ⭐",
+    "Approximate_reading_time": 9,
+    "Pages": "~270 pages",
+    "summary": "Most millionaires don’t live flashy lives — they budget, invest steadily, and avoid lifestyle inflation. Based on real data, this book shows that wealth is built through discipline, not high income. It challenges the myth of what 'rich' looks like.",
+    "verdict": "Data-driven insights on everyday wealthy people—frugality over show. Useful for those who want a mindset shift for wealth-building.",
+    "tags": ["financial education", "passive income", "investing", "decision-making", "budgeting", "frugality", "wealth habits","saving"]
+    },
+
+    {
+    "title": "A Random Walk Down Wall Street",
+    "Author": "Burton Malkiel",
+    "genre": ["finance","investing"],
+    "Rating": "4.15 ⭐",
+    "Approximate_reading_time": 12,
+    "Pages": "~450 pages",
+    "summary": "This investing classic argues that markets are unpredictable and that trying to beat them is usually a waste. It supports passive investing through diversified index funds as the smartest long-term approach. Great for beginners who want to understand how markets really work.",
+    "verdict": "Covers history of markets, portfolio strategies, behavioral biases. A timeless introduction to passive investing with rich context.",
+    "tags": ["financial education", "passive income", "investing", "decision-making", "budgeting", "frugality", "stock market", "wealth habits", "index funds","saving"]
+    },
+
+    {
+    "title": "One Up On Wall Street ",
+    "Author": "Peter Lynch",
+    "genre": ["finance","investing"],
+    "Rating": "4.39 ⭐",
+    "Approximate_reading_time": 9,
+    "Pages": "~320 pages",
+    "summary": "Peter Lynch shows how regular people can spot winning stocks by observing trends in daily life. He explains how to research companies and stay calm during market noise. A practical and encouraging guide for DIY investors.",
+    "verdict": "Inspiring for DIY investors. Shows how everyday observations can reveal smart investment ideas. Encourages research and conviction-building.",
+    "tags": ["financial education", "passive income", "investing", "decision-making", "budgeting", "frugality", "stock market", "wealth habits", "index funds","saving"]
+    },
+
+    {
+    "title": "The Alchemist",
+    "Author": "Paulo Coelho",
+    "genre": ["fiction","spiritual","inspirational","motivational"],
+    "Rating": "3.92 ⭐",
+    "Approximate_reading_time": 3,
+    "Pages": "~160 pages",
+    "summary": "A young shepherd named Santiago follows a recurring dream and travels in search of treasure. Along the way, he learns deep life lessons about following one’s purpose and listening to the heart. It’s a story of self-discovery, destiny, and faith. Key Learning: Your personal legend (life’s purpose) is worth pursuing, even when the path is uncertain.",
+    "verdict": "A short, allegorical quest about dreams and destiny—great for light reflection. Inspiring, but its aphoristic style won’t satisfy readers seeking deep narrative or complexity.",
+    "tags": ["education","philosophy","self-help","psychology", "success", "positive thinking", "belief", "life lessons", "self-confidence", "growth mindset","motivation", "inspiration", "confidence", "resilience","faith", "presence", "consciousness", "mindfulness", "inner journey", "energy","spirituality","journey", "dreams", "fantasy", "justice",  "alienation",  "friendship", "betrayal", "adventure", "survival","travel"]
+    },
+
+    {
+    "title": "1984",
+    "Author": "George Orwell",
+    "genre": ["fiction"],
+    "Rating": "4.25 ⭐",
+    "Approximate_reading_time": 7,
+    "Pages": "~320 pages",
+    "summary": "This dystopian novel portrays a society under constant surveillance, ruled by a totalitarian regime that controls truth. The main character, Winston, struggles to maintain his identity and beliefs in a world without freedom. Chilling and powerful, it warns against oppressive systems.",
+    "verdict": "A must-read classic dystopian novel—timely, chilling, and thought-provoking. Essential for understanding themes like surveillance and authoritarianism.",
+    "tags": ["novel", "dreams", "classic", "dystopia", "surveillance", "justice", "racism", "alienation", "coming-of-age", "friendship", "betrayal", "adventure", "fantasy","survival","literature"]
+    },
+
+    {
+    "title": "To Kill a Mockingbird",
+    "Author": "Harper Lee",
+    "genre": ["fiction"],
+    "Rating": "4.3 ⭐",
+    "Approximate_reading_time": 8,
+    "Pages": "~280 pages",
+    "summary": "Set in the American South, a young girl named Scout witnesses racial injustice as her father, Atticus Finch, defends a wrongly accused Black man. The story explores morality, empathy, and growing up in a biased society. Key Learning: Standing up for justice and understanding others' perspectives are timeless values.",
+    "verdict": "A soaring literary staple on race, justice, and moral courage through a child's eyes. Poignant, profound, and a deeply human read.",
+    "tags": ["classic","journey", "dreams", "dystopia", "surveillance", "justice", "racism", "alienation", "coming-of-age", "friendship", "betrayal", "adventure","survival"]
+    },
+
+    {
+    "title": "The Great Gatsby ",
+    "Author": "F. Scott Fitzgerald",
+    "genre": ["fiction"],
+    "Rating": "3.93 ⭐",
+    "Approximate_reading_time": 3,
+    "Pages": "~180 pages",
+    "summary": "In the 1920s, Jay Gatsby throws lavish parties in hopes of winning back his lost love. The story reveals the emptiness beneath wealth, glamor, and the American Dream. Told through Nick’s eyes, it’s a tale of ambition, love, and illusion. Key Learning: Chasing superficial dreams can lead to emptiness; authenticity matters more than appearances.",
+    "verdict": "A tightly woven portrayal of the Jazz Age, wealth, and illusion. Stylish and tragic—worth a read for lovers of poetic prose.",
+    "tags": ["novel","journey", "dreams", "romance", "classic", "romance", "friendship", "betrayal", "adventure", "fantasy","justice"]
+    },
+
+    {
+    "title": "Catch 22 ",
+    "Author": "Joseph Heller",
+    "genre": ["fiction"],
+    "Rating": "4 ⭐",
+    "Approximate_reading_time": 11,
+    "Pages": "~450 pages",
+    "summary": "This darkly humorous war novel follows Captain Yossarian, who tries to escape the absurd logic of war bureaucracy. The term “Catch-22” comes from the idea that you're trapped no matter what you do. It criticizes the madness of war and systems.",
+    "verdict": "Hilarious yet haunting anti-war satire. Dense and surreal—give it time, but the absurdist brilliance is unforgettable. A must read for anyone trying to learn about Bureaucracy through a humorous way",
+    "tags": ["novel","classic", "dreams", "literature", "humour", "surveillance", "alienation", "friendship", "betrayal", "adventure","survival","justice"]
+    },
+
+    {
+    "title": "Brave New World ",
+    "Author": "Aldous Huxley",
+    "genre": ["fiction"],
+    "Rating": "4 ⭐",
+    "Approximate_reading_time": 7,
+    "Pages": "~300 pages",
+    "summary": "In a future society driven by pleasure, control, and technology, people are conditioned to be happy but lack individuality. One man questions this “perfect” world. The novel explores freedom, identity, and conformity. Key Learning: Comfort without meaning can be just as dangerous as oppression.",
+    "verdict": "A provocative dystopia that grapples with consumerism and technological control. Still alarmingly relevant today.",
+    "tags": ["novel","classic","dreams", "dystopia","philosophy","surveillance", "justice", "coming-of-age", "friendship", "betrayal", "adventure", "fantasy","justice"]
+    },
+
+    {
+    "title": "Life of Pi ",
+    "Author": "Yann Martel",
+    "genre": ["fiction"],
+    "Rating": "3.95 ⭐",
+    "Approximate_reading_time": 8,
+    "Pages": "~320 pages",
+    "summary": "After a shipwreck, a boy named Pi survives on a lifeboat with a Bengal tiger. Through hardship, storytelling, and faith, he navigates fear and loneliness. It’s a mix of adventure, spirituality, and survival.",
+    "verdict": "A beautifully imaginative tale of survival, spirituality, and storytelling. Deep and imaginative—appeals to thoughtful readers.",
+    "tags": ["journey", "dreams", "friendship", "adventure", "fantasy","survival","classic","novel","literature","philosophy","spirituality"]
+    },
+
+    {
+    "title": "The Kite Runner ",
+    "Author": "Khaled Hosseini",
+    "genre": ["fiction"],
+    "Rating": "4.4 ⭐",
+    "Approximate_reading_time": 9,
+    "Pages": "~370 pages",
+    "summary": "This moving novel follows Amir and Hassan, two boys in Afghanistan, through friendship, betrayal, and redemption. Amir’s journey to make things right spans decades and continents. Emotional and powerful, it reveals the cost of guilt and the hope of forgiveness. Key Learning: True redemption often requires courage, honesty, and facing your past.",
+    "verdict": "A powerful, emotional story of friendship and redemption set against Afghanistan’s recent history. Hard-hitting and compassionate.",
+    "tags": ["historical fiction","journey", "dreams", "spirituality", "dystopia", "surveillance", "justice", "racism", "alienation", "friendship", "betrayal", "adventure", "novel","classic"]
+    },
+
+    {
+    "title": "The Hobbit",
+    "Author": "J.R.R. Tolkien",
+    "genre": ["fiction"],
+    "Rating": "4.31 ⭐",
+    "Approximate_reading_time": 7.5,
+    "Pages": "~300 pages",
+    "summary": "Bilbo Baggins, a quiet hobbit, is pulled into an epic quest to help dwarves reclaim their treasure from a dragon. Along the way, he faces danger, discovers bravery, and finds more than he expected. A beloved fantasy about adventure and growth. Key Learning: Even the most unlikely people can rise to greatness when they step outside their comfort zones.",
+    "verdict": "A timeless fantasy adventure—light, charming, and world-building. Great entry-point into Tolkien before Middle-earth’s deeper lore. It’s a perfect starting point for anyone new to fantasy, offering a rich and magical world that’s fun and easy to follow. A must-read for readers of all ages who enjoy exciting adventures and unforgettable characters.",
+    "tags": ["journey", "dreams","novel", "justice", "classic","alienation","friendship", "betrayal", "adventure", "fantasy","survival"]
+    },
+
+    {
+    "title": "The Catcher in the Rye ",
+    "Author": "J.D. Salinger",
+    "genre": ["fiction"],
+    "Rating": "3.8 ⭐",
+    "Approximate_reading_time": 4,
+    "Pages": "~230 pages",
+    "summary": "Teenager Holden Caulfield narrates a few days of his life after leaving school, struggling with grief, loneliness, and finding meaning. His cynical voice reflects teenage confusion and a desire to protect innocence. Key Learning: Growing up is complex, and sometimes we need space to figure out who we really are.",
+    "verdict": "A brief but resonant coming-of-age story—raw, introspective, and influential, especially for teens and those nostalgic about adolescent alienation.",
+    "tags": ["classic", "dreams", "spirituality", "dystopia","literature", "novel", "racism", "alienation", "coming-of-age", "friendship", "betrayal", "adventure"]
+    },
+
+    {
+    "title": "Educated ",
+    "Author": "Tara Westover",
+    "genre": ["non-fiction","memoir"],
+    "Rating": "4.56 ⭐",
+    "Approximate_reading_time": 6,
+    "Pages": "~350 pages",
+    "summary": "Tara Westover tells the story of growing up in a strict, isolated family that didn’t believe in formal education or modern medicine. Despite never attending school as a child, she teaches herself enough to get into college and eventually earns a PhD. It’s a powerful story about breaking free, finding your identity, and how education can truly change a life.",
+    "verdict": "A powerful memoir of self reinvention through education. Inspiring and deeply moving—great for anyone questioning their own path or craving intellectual growth.",
+    "tags": ["memoir", "education", "resilience", "family", "biography", "autobiography", "poverty", "self-discovery", "philosophy", "survival"]
+    },
+
+    {
+    "title": "Sapiens",
+    "Author": "Yuval Noah Harari",
+    "genre": ["non-fiction","memoir"],
+    "Rating": "4.4 ⭐",
+    "Approximate_reading_time": 10,
+    "Pages": "~450 pages",
+    "summary": "This book takes you through the entire history of humans — from ancient hunter-gatherers to today’s tech-driven society. Harari explains how humans evolved, created religions, money, and nations, and how these things shaped our world. It’s an eye-opening and thought-provoking read that makes you look at humanity in a new way.",
+    "verdict": "A sweeping, provocative history of humankind. Highly recommended for big thinkers—though sometimes speculative and sweeping. Great companion to “Homo Deus”.",
+    "tags": ["history", "education", "resilience", "family", "mortality", "science", "evolution", "anthropology", "philosophy", "survival","psychology","sociology"]
+    },
+
+    {
+    "title": " Becoming ",
+    "Author": "Michelle Obama",
+    "genre": ["non-fiction","memoir"],
+    "Rating": "4.5 ⭐",
+    "Approximate_reading_time": 9,
+    "Pages": "~450 pages",
+    "summary": "Michelle Obama shares her life journey — from her childhood in Chicago to her time as First Lady of the United States. She talks about the challenges she faced, the lessons she learned, and what it means to find your voice and purpose. It’s warm, inspiring, and deeply personal.",
+    "verdict": "Engaging and insightful memoir by one of the most influential First Ladies. Offers perspectives on identity, ambition, and service.",
+    "tags": ["memoir", "education", "resilience", "family", "biography", "autobiography", "history", "self-discovery", "philosophy", "feminism"]
+    },
+
+    {
+    "title": "The Glass Castle ",
+    "Author": "Jeannette Walls",
+    "genre": ["non-fiction","memoir"],
+    "Rating": "4.3 ⭐",
+    "Approximate_reading_time": 6.5,
+    "Pages": "~300 pages",
+    "summary": "Jeannette Walls recounts her difficult but fascinating childhood with parents who were loving but deeply flawed. Growing up in poverty, constantly moving, and learning to fend for herself, she shares her story with honesty and strength. It’s a moving memoir about resilience, family, and forgiveness.",
+    "verdict": "A vivid, raw portrait of resilience in chaos. Emotional and compulsively readable—especially for fans of family memoirs.",
+    "tags": ["memoir", "education", "resilience", "family", "biography", "entrepreneurship", "poverty", "self-discovery", "philosophy", "survival","autobiography","classic"]
+    },
+
+    {
+    "title": "When Breath Becomes Air ",
+    "Author": "Paul Kalanithi",
+    "genre": ["non-fiction","memoir"],
+    "Rating": "4.41 ⭐",
+    "Approximate_reading_time": 4,
+    "Pages": "~220 pages",
+    "summary": "Neurosurgeon Paul Kalanithi writes about facing terminal cancer just as his career is taking off. He reflects on life, death, meaning, and what it’s like to go from doctor to patient. The book is touching, philosophical, and full of perspective on how to live fully, even with limited time.",
+    "verdict": "Poignant and philosophical, written by a neurosurgeon facing death. Short but deeply reflective—compelling for anyone confronting life’s meaning.",
+    "tags": ["memoir", "education", "resilience", "family", "mortality", "autobiography", "biography", "self-discovery", "philosophy", "survival","medical"]
+    },
+
+    {
+    "title": "Born a Crime ",
+    "Author": "Trevor Noah",
+    "genre": ["non-fiction","memoir"],
+    "Rating": "4.61 ⭐",
+    "Approximate_reading_time": 6.5,
+    "Pages": "~300 pages",
+    "summary": "Comedian Trevor Noah shares stories from his childhood in South Africa during apartheid, when his very existence was illegal because of his mixed-race background. He mixes humor with painful truths, making this both funny and deeply meaningful. It’s about identity, struggle, and using laughter to survive.",
+    "verdict": "Warm, witty, and culturally insightful. Noah’s stories of apartheid-era South Africa mix humour with hard truths—highly recommended.",
+    "tags": ["memoir", "biography", "autobiography", "family", "humour", "racism", "poverty", "self-discovery", "philosophy", "survival"]
+    },
+
+    {
+    "title": "Shoe Dog ",
+    "Author": "Phil Knight",
+    "genre": ["non-fiction","memoir"],
+    "Rating": "4.56 ⭐",
+    "Approximate_reading_time": 9,
+    "Pages": "~400 pages",
+    "summary": "Nike’s co-founder Phil Knight shares how he built one of the biggest brands in the world. From selling shoes out of his car to taking huge risks, he shows the ups and downs of being an entrepreneur. It’s honest, inspiring, and shows that success often comes with fear, failure, and persistence.",
+    "verdict": "A raw, authentic founder memoir from Nike’s co-founder. Great for entrepreneurs—it’s honest, humbling, and nothing like a sanitized business story.",
+    "tags": ["memoir", "education", "resilience", "family", "biography", "entrepreneurship", "poverty", "self-discovery", "philosophy", "survival","autobiography"]
+    },
+
+    {
+    "title": " Wild ",
+    "Author": "Cheryl Strayed",
+    "genre": ["non-fiction","memoir"],
+    "Rating": "4.02 ⭐",
+    "Approximate_reading_time": 6.5,
+    "Pages": "~320 pages",
+    "summary": "After losing her mother and feeling lost in life, Cheryl Strayed sets out alone to hike the Pacific Crest Trail. With no experience and lots of pain, she learns about herself step by step. It’s a raw and emotional story about healing, nature, and finding inner strength.",
+    "verdict": "A healing journey through self discovery on the Pacific Crest Trail. Emotional and descriptive—especially for nature lovers and introspective readers.",
+    "tags": ["memoir", "education", "resilience", "family", "mortality", "travel", "classic", "self-discovery", "philosophy", "survival","nature","biography"]
+    },
+
+    {
+    "title": "The Diary of a Young Girl ",
+    "Author": "Anne Frank",
+    "genre": ["non-fiction","memoir"],
+    "Rating": "4.3 ⭐",
+    "Approximate_reading_time": 4.5,
+    "Pages": "~280 pages",
+    "summary": "Anne Frank, a young Jewish girl, writes about her life in hiding during World War II. Her diary is filled with hope, fear, dreams, and honest thoughts as she faces life in a small attic for over two years. It’s a touching and important look at courage during dark times.",
+    "verdict": "A timeless and heartbreaking firsthand account of life in hiding during WWII. Essential reading for understanding hope in adversity.",
+    "tags": ["memoir", "education", "resilience", "family", "mortality", "war", "poverty", "self-discovery", "philosophy", "survival","biography","history","classic"]
+    },
+
+    {
+    "title": "Man’s Search for Meaning ",
+    "Author": "Viktor Frankl",
+    "genre": ["non-fiction","memoir","philosophy","thought","inspirational","motivational"],
+    "Rating": "4.47 ⭐",
+    "Approximate_reading_time": 4,
+    "Pages": "~250 pages",
+    "summary": "Psychiatrist Viktor Frankl survived the Holocaust and wrote about his experiences in Nazi concentration camps. He shares how even in the worst conditions, people can find purpose and meaning. It’s a short but deep book that teaches us the power of hope, mindset, and inner strength.",
+    "verdict": "A profound memoir and psychological journey through the Holocaust. A life-changing exploration of finding purpose in suffering.",
+    "tags": ["education","philosophy","self-help","psychology", "success", "positive thinking", "belief", "life lessons", "self-confidence", "growth mindset","motivation", "inspiration", "confidence", "resilience", "wisdom", "reflection","mental strength","memoir","family", "self-discovery", "survival","history","biography"]
+    },
+
+    {
+    "title": "Eat That Frog",
+    "Author": "Brian Tracy",
+    "genre": ["productivity","time-management"],
+    "Rating": "3.9 ⭐",
+    "Approximate_reading_time": 1.5,
+    "Pages": "~120 pages",
+    "summary": "This book teaches that the best way to beat procrastination is to tackle your biggest and most challenging task first — your “frog.” Tracy provides 21 practical tips to prioritize tasks, stay focused, and work efficiently, helping you accomplish more in less time.",
+    "verdict": "Super concise and actionable—21 quick tips to fight procrastination. Great for busy readers who want fast wins.",
+    "tags": ["prioritization", "procrastination", "workflow", "essentialism", "time blocks", "lifestyle design", "automation","focus","deep work","efficiency","productivity","psychology","self-help"]
+    },
+
+    {
+    "title": "Getting Things Done",
+    "Author": "David Allen",
+    "genre": ["productivity","time-management"],
+    "Rating": "4.01 ⭐",
+    "Approximate_reading_time": 4.5,
+    "Pages": "~260 pages",
+    "summary": "Allen introduces the famous “GTD” method, which helps you capture all tasks, break them into actionable steps, and organize them in a clear system. By clearing mental clutter, you can focus better, reduce stress, and handle complex projects with ease.",
+    "verdict": "A productivity staple for those drowning in tasks. Detailed—best if you're ready to invest time in setting up the system. Community is both a strength and complexity.",
+    "tags": ["productivity","prioritization", "procrastination", "workflow", "essentialism", "time blocks", "lifestyle design", "automation","focus","deep work","efficiency"]
+    },
+
+    {
+    "title": "The One Thing ",
+    "Author": "Gary Keller & Jay Papasan",
+    "genre": ["productivity","time-management"],
+    "Rating": "4.2 ⭐",
+    "Approximate_reading_time": 4,
+    "Pages": "~240 pages",
+    "summary": "The book focuses on the power of narrowing your efforts to just one key task that creates the biggest impact. Keller explains how multitasking and distractions kill productivity and teaches how to prioritize what truly matters.",
+    "verdict": "Laser-focused on prioritization. Ideal for anyone overwhelmed by multitasking—encourages you to find the most impactful task.",
+    "tags": ["self-help","psychology","productivity","prioritization", "procrastination", "workflow", "essentialism", "time blocks", "lifestyle design", "automation","focus","deep work","efficiency"]
+    },
+
+    {
+    "title": "Essentialism",
+    "Author": "Greg McKeown",
+    "genre": ["productivity","time-management"],
+    "Rating": "4.06 ⭐",
+    "Approximate_reading_time": 5,
+    "Pages": "~300 pages",
+    "summary": "McKeown argues that success comes from doing less but better. He shares strategies for saying “no,” cutting out non-essential tasks, and focusing only on what aligns with your highest goals.",
+    "verdict": "A mindset book about doing less but better. Perfect for over-stretched individuals—packed with routines and saying no strategies.",
+    "tags": ["psychology","philosophy","productivity","prioritization", "procrastination", "workflow", "essentialism", "time blocks", "lifestyle design", "automation","focus","deep work","efficiency"]
+    },
+
+    {
+    "title": "Make Time ",
+    "Author": "Jake Knapp & John Zeratsky",
+    "genre": ["productivity","time-management"],
+    "Rating": "4.07 ⭐",
+    "Approximate_reading_time": 4,
+    "Pages": "~240 pages",
+    "summary": "Written by two former Google employees, this book shares practical methods to create space for what matters most in your day. Through simple techniques like choosing a daily “highlight” and avoiding distractions, you can build a more intentional routine.",
+    "verdict": "Practical daily tactics to design your time—time-blocking, highlight choices, energy hacks. Best for digital-age professionals.",
+    "tags": ["psychology","productivity","self-help","prioritization", "procrastination", "workflow", "essentialism", "time blocks", "lifestyle design", "automation","focus","deep work","efficiency"]
+    },
+
+    {
+    "title": "The Pomodoro Technique ",
+    "Author": "Francesco Cirillo",
+    "genre": ["productivity","time-management"],
+    "Rating": "3.7 ⭐",
+    "Approximate_reading_time": 1.5,
+    "Pages": "~110 pages",
+    "summary": "Cirillo introduces a time management method that uses 25-minute focus sessions, followed by short breaks, to improve concentration. This approach is perfect for anyone who struggles with procrastination or burnout.",
+    "verdict": "Simple but powerful: work 25 min sprints with short breaks. Great for focus seekers and people with shorter attention spans.",
+    "tags": ["productivity","psychology","self-help","prioritization", "procrastination", "workflow", "essentialism", "time blocks", "lifestyle design", "automation","focus","deep work","efficiency"]
+    },
+
+    {
+    "title": "168 Hours ",
+    "Author": "Laura Vanderkam",
+    "genre": ["productivity","time-management"],
+    "Rating": "3.6 ⭐",
+    "Approximate_reading_time": 4,
+    "Pages": "~240 pages",
+    "summary": "Vanderkam shows that everyone has 168 hours in a week, and the key is to use them wisely. She encourages readers to track their time, cut out unproductive habits, and make room for what matters most, like work, family, and hobbies.",
+    "verdict": "Checks how you spend your full-week hours—ideal for those who feel time-starved. Encourages reclaiming hours for what matters.",
+    "tags": ["self-help","psychology","philosophy","productivity","prioritization", "procrastination", "workflow", "essentialism", "time blocks", "lifestyle design", "automation","focus","deep work","efficiency"]
+    },
+
+    {
+    "title": "The 4 Hour Workweek ",
+    "Author": "Tim Ferriss",
+    "genre": ["productivity","time-management"],
+    "Rating": "3.91 ⭐",
+    "Approximate_reading_time": 8.5,
+    "Pages": "~420 pages",
+    "summary": "Ferriss shares strategies to escape the 9–5 grind by outsourcing tasks, automating income, and focusing on high-impact work. It’s not just about working less — it’s about creating a lifestyle of freedom and purpose.",
+    "verdict": "Bold, unconventional approach to lifestyle design and escape the grind. Best for aspiring entrepreneurs and remote workers—some ideas feel dated.",
+    "tags": ["self-help","psychology","philosophy","entrepreneurship","productivity","prioritization", "procrastination", "workflow", "essentialism", "time blocks", "lifestyle design", "automation","focus","deep work","efficiency"]
+    },
+
+    {
+    "title": "The Effective Executive ",
+    "Author": "Peter Drucker",
+    "genre": ["productivity","time-management"],
+    "Rating": "4.08 ⭐",
+    "Approximate_reading_time": 2.5,
+    "Pages": "~190 pages",
+    "summary": "Drucker explains how great leaders focus on results, not effort, by managing their time and priorities well. This classic book is full of timeless lessons on decision-making, effectiveness, and building influence at work.",
+    "verdict": "A leadership classic about time, decision, and effectiveness. Highly recommended for managers and those aiming to lead well.",
+    "tags": ["leadership","self-help","productivity","entrepreneurship","prioritization", "procrastination", "workflow", "essentialism", "time blocks", "lifestyle design", "automation","focus","deep work","efficiency"]
+    },
+
+    {
+    "title": "Thinking, Fast and Slow",
+    "Author": "Daniel Kahneman",
+    "genre": ["psychology","human behaviour"],
+    "Rating": "4.25 ⭐",
+    "Approximate_reading_time": 11,
+    "Pages": "~500 pages",
+    "summary": "This book explains that our brains have two systems: one fast, intuitive, and emotional; the other slow, logical, and deliberate. Kahneman reveals how these systems influence our decisions and how we often make mistakes without realizing it.",
+    "verdict": "A modern classic on cognitive biases and decision-making. Essential for understanding how intuition and reason shape our judgments.",
+    "tags": ["cognitive bias", "psychology", "irrationality", "happiness", "introversion", "personality", "EQ", "intuition", "neurology", "concentration","decision-making", "behavior","philosophy","science"]
+    },
+
+    {
+    "title": " Influence ",
+    "Author": "Robert Cialdini",
+    "genre": ["psychology","human behaviour"],
+    "Rating": "4.3 ⭐",
+    "Approximate_reading_time": 5,
+    "Pages": "~300 pages",
+    "summary": "Cialdini breaks down six powerful principles of persuasion, like reciprocity and social proof, to show how we are influenced every day. It helps you recognize when someone’s trying to sway you and teaches you how to persuade others ethically.",
+    "verdict": "A must-read on persuasion, social proof, and compliance. Packed with empirical insights and real examples—useful for marketers, leaders, and anyone who wants to influence or protect themselves from manipulation.",
+    "tags": ["leadership","communication","science","cognitive bias", "psychology", "irrationality", "happiness", "introversion", "personality", "EQ", "intuition", "neurology", "concentration","decision-making", "behavior"]
+    },
+
+    {
+    "title": "Predictably Irrational ",
+    "Author": "Dan Ariely",
+    "genre": ["psychology","human behaviour"],
+    "Rating": "4.2 ⭐",
+    "Approximate_reading_time": 5,
+    "Pages": "~320 pages",
+    "summary": "Ariely explores why we often make irrational choices even when we think we're being logical. He uses real-life experiments to show how emotions, context, and hidden forces affect our decisions in surprising ways.",
+    "verdict": "Full of charming experiments that reveal our hidden decision-making quirks. Great for anyone curious about the irrational habits of humans and how to counter them.",
+    "tags": ["philosophy","science", "psychology", "irrationality", "happiness", "introversion", "personality", "EQ", "intuition", "neurology", "concentration","decision-making", "behavior"]
+    },
+
+    {
+    "title": "Stumbling on Happiness ",
+    "Author": "Daniel Gilbert",
+    "genre": ["psychology","human behaviour"],
+    "Rating": "3.85 ⭐",
+    "Approximate_reading_time": 5.5,
+    "Pages": "~330 pages",
+    "summary": "Gilbert explores how the human brain imagines the future — and why it often gets happiness predictions wrong. Through psychology and humor, he shows how our memories and imagination trick us into chasing things that may not bring real joy. The book helps you understand what truly makes people happy, and why it's often different from what we expect.",
+    "verdict": "A sharp, research-based look at how we imagine happiness—and why our minds often get it wrong. Eye-opening for self-awareness and emotional insight",
+    "tags": ["science","philosophy", "psychology", "irrationality", "happiness", "introversion", "personality", "EQ", "intuition", "neurology", "concentration","decision-making", "behavior"]
+    },
+
+    {
+    "title": "Quiet ",
+    "Author": "Susan Cain",
+    "genre": ["psychology","human behaviour"],
+    "Rating": "4.1 ⭐",
+    "Approximate_reading_time": 6,
+    "Pages": "~350 pages",
+    "summary": "Cain highlights the strengths of introverts in a world that often favors loud, outgoing personalities. The book encourages introverts to embrace their quiet nature and helps extroverts understand and appreciate them better.",
+    "verdict": "A powerful advocacy for introverts in an extrovert world. Inspiring and full of research—valuable for understanding personality differences and improving leadership or teaching.",
+    "tags": ["science","leadership","psychology", "irrationality", "happiness", "introversion", "personality", "EQ", "intuition", "neurology", "concentration","decision-making", "behavior"]
+    },
+
+    {
+    "title": "Emotional Intelligence ",
+    "Author": "Daniel Goleman",
+    "genre": ["psychology","human behaviour"],
+    "Rating": "4.05 ⭐",
+    "Approximate_reading_time": 6,
+    "Pages": "~350 pages",
+    "summary": "Goleman shows that being smart isn’t just about IQ — emotional intelligence (EQ) plays a huge role in success. The book covers self-awareness, empathy, and managing emotions, helping you build better relationships and decision-making skills.",
+    "verdict": "A seminal exploration of self-awareness, self-regulation, empathy, and social skills. Essential for leaders, educators, and anyone seeking personal growth.",
+    "tags": ["science","leadership","relationships", "psychology", "irrationality", "happiness", "introversion", "personality", "EQ", "intuition", "neurology", "concentration","decision-making", "behavior"]
+    },
+
+    {
+    "title": " Blink ",
+    "Author": "Malcolm Gladwell",
+    "genre": ["psychology","human behaviour"],
+    "Rating": "4 ⭐",
+    "Approximate_reading_time": 5.5,
+    "Pages": "~320 pages",
+    "summary": "Gladwell explores the power of rapid decisions made in the blink of an eye. He explains how snap judgments can be both surprisingly accurate and dangerously biased — and when to trust them.",
+    "verdict": "A gripping dive into rapid cognition—when snap judgments work (and when they fail). Entertaining, accessible, and thought-provoking.",
+    "tags": ["science","philosophy", "psychology", "irrationality", "happiness", "introversion", "personality", "EQ", "intuition", "neurology", "concentration","decision-making", "behavior"]
+    },
+
+    {
+    "title": "The Man Who Mistook His Wife for a Hat ",
+    "Author": "Oliver Sacks",
+    "genre": ["psychology","human behaviour"],
+    "Rating": "4.05 ⭐",
+    "Approximate_reading_time": 4,
+    "Pages": "~240 pages",
+    "summary": "In this fascinating collection of real clinical cases, neurologist Oliver Sacks shares the stories of patients with unusual brain conditions. From a man who literally mistakes his wife for a hat, to people who lose their memory or sense of identity, Sacks explores how the brain shapes our perception of reality. The book combines science, empathy, and storytelling to help readers better understand the human mind.",
+    "verdict": "Fascinating neurological case studies exploring perception, identity, and brain disorders. Highly recommended for those curious about neurology and human stories.",
+    "tags": ["science","medical","mental health", "psychology", "irrationality", "happiness", "introversion", "personality", "EQ", "intuition", "neurology", "concentration","decision-making", "behavior"]
+    },
+
+    {
+    "title": "Flow",
+    "Author": "Mihaly Csikszentmihalyi",
+    "genre": ["psychology","human behaviour"],
+    "Rating": "4.15 ⭐",
+    "Approximate_reading_time": 5.5,
+    "Pages": "~330 pages",
+    "summary": "This book explains the concept of “flow” — a mental state where you're fully immersed, focused, and enjoying what you do. Whether it’s work, art, or a hobby, flow happens when challenge and skill are perfectly balanced. Csikszentmihalyi shows how achieving flow regularly can lead to deeper happiness, creativity, and a more meaningful life.",
+    "verdict": "A foundational book defining the psychology of happiness and optimal experience. Inspires how to engage fully in work, creativity, and play.",
+    "tags": ["science","productivity","leadership","philosophy", "psychology", "irrationality", "happiness", "introversion", "personality", "EQ", "intuition", "neurology", "concentration","decision-making", "behavior"]
+    },
+
+    {
+    "title": "Meditations",
+    "Author": "Marcus Aurelius",
+    "genre": ["philosophy","thought"],
+    "Rating": "4.35 ⭐",
+    "Approximate_reading_time": 4,
+    "Pages": "~250 pages",
+    "summary": "This is a personal journal by the Roman emperor Marcus Aurelius, where he reflects on how to live a good, meaningful life. It’s filled with practical wisdom on self-control, humility, and staying calm in the face of problems. A powerful guide to inner strength and Stoic thinking.",
+    "verdict": "Pocket sized stoic wisdom—great to dip into daily. Rich in self reflection, though some editions bulk up with commentary.  It’s a must-read for anyone seeking personal growth and mental clarity.",
+    "tags": ["stoicism", "justice", "wisdom", "strategy", "morality", "eastern thought", "reflection", "spiritual growth","classic","history","self-help","philosophy","psychology"]
+    },
+
+    {
+    "title": "The Republic ",
+    "Author": "Plato",
+    "genre": ["philosophy","thought"],
+    "Rating": "3.96 ⭐",
+    "Approximate_reading_time": 10,
+    "Pages": "~350 pages",
+    "summary": "In this philosophical dialogue, Plato imagines a perfect society and explores big questions like justice, power, and education. Through the voice of Socrates, it argues that a just person leads a better life, and that leaders should be wise and virtuous.",
+    "verdict": "Foundational Western political philosophy. Essential for readers interested in justice, society, ethics—but requires patience and reflection.",
+    "tags": ["philosophy","classic","history","literature","politics","justice", "wisdom", "strategy", "morality", "eastern thought", "reflection", "spiritual growth"]
+    },
+
+    {
+    "title": "The Tao of Pooh ",
+    "Author": "Benjamin Hoff",
+    "genre": ["philosophy","thought"],
+    "Rating": "4.01 ⭐",
+    "Approximate_reading_time": 1.5,
+    "Pages": "~150 pages",
+    "summary": "This charming book uses the character Winnie the Pooh to explain the basics of Taoism — going with the flow, keeping life simple, and appreciating the present. It’s an easy and gentle way to explore Eastern philosophy.",
+    "verdict": "Charming and simple introduction to Taoist philosophy via Winnie the Pooh—perfect for beginners or light readers.",
+    "tags": ["classic", "justice", "wisdom", "philosophy", "morality", "eastern thought", "reflection", "spiritual growth","psychology","humour"]
+    },
+
+    {
+    "title": "The Consolations of Philosophy ",
+    "Author": "Alain de Botton",
+    "genre": ["philosophy","thought"],
+    "Rating": "4.01 ⭐",
+    "Approximate_reading_time": 5.5,
+    "Pages": "~320 pages",
+    "summary": "This book pairs six famous philosophers with six everyday problems, like heartbreak or money worries. It shows how ancient wisdom can comfort us and help us deal with modern struggles. Deep, but very readable and practical.",
+    "verdict": "Accessible overview of six philosophers (Socrates to Nietzsche), applying their ideas to modern woes. A gentle, practical introduction to philosophy.",
+    "tags": ["philosophy","classic","history","psychology","stoicism", "justice", "wisdom", "strategy", "morality", "eastern thought", "reflection", "spiritual growth"]
+    },
+
+    {
+    "title": "The Art of War ",
+    "Author": "Sun Tzu",
+    "genre": ["philosophy","thought"],
+    "Rating": "3.95 ⭐",
+    "Approximate_reading_time": 1.5,
+    "Pages": "~100 pages",
+    "summary": "Though it’s about ancient warfare, this book offers timeless strategies on leadership, planning, and decision-making. It teaches that winning doesn’t always mean fighting — sometimes success comes from knowing yourself and your opponent well.",
+    "verdict": "Timeless strategic text, widely applied outside warfare (business, sports, negotiation). Short and potent. Its short, poetic style makes it easy to revisit often. Highly recommended for anyone interested in strategic thinking or navigating competitive environments with wisdom. ",
+    "tags": ["philosophy","classic","history","military fiction", "justice", "wisdom", "strategy", "morality", "reflection"]
+    },
+
+    {
+    "title": "Beyond Good and Evil ",
+    "Author": "Friedrich Nietzsche",
+    "genre": ["philosophy","thought"],
+    "Rating": "4.03 ⭐",
+    "Approximate_reading_time": 4.5,
+    "Pages": "~270 pages",
+    "summary": "Nietzsche challenges traditional ideas of morality and truth, encouraging people to think independently and embrace their personal values. It’s a bold and complex book that asks readers to go beyond “right and wrong” and live authentically.",
+    "verdict": "Provocative and sharp, challenging moral absolutes and conventional philosophy. Not for the faint-hearted, but rewarding.",
+    "tags": ["psychology","philosophy","classic","literature","history", "justice", "wisdom", "strategy", "morality", "eastern thought", "reflection"]
+    },
+
+    {
+    "title": "Sophie's World ",
+    "Author": "Jostein Gaarder",
+    "genre": ["philosophy","thought","fiction"],
+    "Rating": "3.97 ⭐",
+    "Approximate_reading_time": 11,
+    "Pages": "~520 pages",
+    "summary": "A teenage girl begins receiving mysterious letters that take her through the history of philosophy, from Socrates to modern thinkers. It’s part novel, part philosophy course — a fun and clever way to learn deep ideas.",
+    "verdict": "A novelized tour through philosophy—story based learning makes it fun and educational. Great for teens and beginners.",
+    "tags": ["journey","literature","novel","classic","philosophy", "justice", "wisdom", "reflection"]
+    },
+
+    {
+    "title": "Zen and the Art of Motorcycle Maintenance ",
+    "Author": "Robert M. Pirsig",
+    "genre": ["philosophy","thought","fiction"],
+    "Rating": "3.8 ⭐",
+    "Approximate_reading_time": 8.5,
+    "Pages": "~420 pages",
+    "summary": "This philosophical novel explores the idea of “quality” in life and work, told through a motorcycle road trip. It blends Zen thinking with personal reflection and questions what it means to live well and think clearly.",
+    "verdict": "A philosophical odyssey couched in a father son road trip. Explores Quality, technology, and self—deep, poetic, sometimes dense.  A thoughtful and unique read for those who enjoy introspective journeys and exploring ideas that challenge conventional thinking. Highly recommended for philosophy lovers and reflective minds.",
+    "tags": ["journey","literature","novel","classic","philosophy","wisdom", "strategy", "reflection", "spiritual growth"]
+    },
+
+    {
+    "title": "Letters from a Stoic ",
+    "Author": " Seneca",
+    "genre": ["philosophy","thought"],
+    "Rating": "4.4 ⭐",
+    "Approximate_reading_time": 6,
+    "Pages": "~250 pages",
+    "summary": "A series of letters from the Stoic philosopher Seneca, giving advice on topics like friendship, fear, and dealing with loss. The tone is wise, calm, and practical — it’s like getting life advice from a thoughtful old friend.",
+    "verdict": "Stoic treasure trove—but can feel repetitive. Pick a curated edition or read one letter at a time for best impact. ",
+    "tags": ["classic","philosophy","psychology","self-help","stoicism","history", "justice", "wisdom", "strategy", "morality", "eastern thought", "reflection", "spiritual growth"]
+    },
+
+    {
+    "title": "The Bhagavad Gita ",
+    "Author": "Krishna",
+    "genre": ["spiritual"],
+    "Rating": "4.35 ⭐",
+    "Approximate_reading_time": 8,
+    "Pages": "~300 pages",
+    "summary": "The Bhagavad Gita is a spiritual dialogue between Prince Arjuna and Lord Krishna on the battlefield, exploring duty, righteousness, selflessness, and devotion. It teaches readers how to live a meaningful life by aligning actions with inner purpose and spiritual truth.",
+    "verdict": "A foundational spiritual and philosophical guide. Offers timeless wisdom on duty, detachment, and purpose. Ideal for reflection and deeper understanding of self.",
+    "tags": ["faith", "presence", "consciousness", "mindfulness", "dharma", "inner journey", "energy","religion","history","hinduism","classic","mythology","spirituality"]
+    },
+
+    {
+    "title": "The Purpose Driven Life ",
+    "Author": "Rick Warren",
+    "genre": ["spiritual"],
+    "Rating": "4 ⭐",
+    "Approximate_reading_time": 8,
+    "Pages": "~330 pages",
+    "summary": "This Christian-based guide helps readers discover their life’s purpose by aligning with God’s plan. It focuses on five purposes—worship, fellowship, discipleship, ministry, and mission—offering a step-by-step spiritual journey over 40 days.",
+    "verdict": "A structured 40-day journey exploring life’s spiritual meaning. Especially valuable for Christians seeking direction and clarity of purpose.",
+    "tags": ["faith", "presence", "consciousness", "mindfulness", "inner journey", "energy","spirituality","christian","theology","self-help"]
+    },
+
+    {
+    "title": "The Power of Now ",
+    "Author": "Eckhart Tolle",
+    "genre": ["spiritual"],
+    "Rating": "4.15 ⭐",
+    "Approximate_reading_time": 5.5,
+    "Pages": "~230 pages",
+    "summary": "This modern spiritual classic emphasizes living in the present moment to break free from mental suffering and ego-driven thought. Tolle explains how mindfulness and consciousness lead to inner peace and true freedom.",
+    "verdict": "Groundbreaking for mindfulness and present-moment awareness. Ideal for those feeling overwhelmed by thoughts, stress, or ego.",
+    "tags": ["faith", "presence", "consciousness", "mindfulness", "inner journey", "energy","self-help","meditation","psychology","philosophy"]
+    },
+
+    {
+    "title": "The Four Agreements ",
+    "Author": "Don Miguel Ruiz",
+    "genre": ["spiritual"],
+    "Rating": "4.2 ⭐",
+    "Approximate_reading_time": 2,
+    "Pages": "~160 pages",
+    "summary": "This practical spiritual guide draws on ancient Toltec wisdom and lays out four principles—be impeccable with your word, don’t take anything personally, don’t make assumptions, and always do your best—for personal freedom and peace.",
+    "verdict": "Short and powerful. Offers four practical principles rooted in Toltec wisdom for personal freedom and inner peace. It’s a quick read with lasting impact—ideal for anyone seeking inner clarity and practical wisdom for living a more mindful and authentic life.",
+    "tags": ["faith", "presence", "consciousness", "mindfulness", "inner journey", "energy","spirituality","self-help","philosophy","psychology"]
+    },
+
+    {
+    "title": "Autobiography of a Yogi ",
+    "Author": "Paramahansa Yogananda",
+    "genre": ["spiritual"],
+    "Rating": "4.25 ⭐",
+    "Approximate_reading_time": 12,
+    "Pages": "~600 pages",
+    "summary": "This spiritual memoir chronicles Yogananda’s journey from childhood in India to teaching yoga in the West, offering insights on meditation, miracles, and divine realization. It’s an influential work that introduced millions to Eastern spirituality.",
+    "verdict": " A spiritual classic. Offers mystical experiences, Eastern philosophy, and inspiring stories. Highly recommended for serious seekers.",
+    "tags": ["biography","autobiography","philosophy","self-help","faith", "presence", "consciousness", "mindfulness", "dharma", "inner journey", "energy","spirituality","hinduism"]
+    },
+
+    {
+    "title": "Conversations with God ",
+    "Author": "Neale Donald Walsch",
+    "genre": ["spiritual"],
+    "Rating": "4.21 ⭐",
+    "Approximate_reading_time": 6.5,
+    "Pages": "~250 pages",
+    "summary": "Framed as a dialogue between the author and God, this book explores themes like purpose, fear, love, and human suffering. It challenges traditional religious views and encourages a personal, compassionate connection with the divine.",
+    "verdict": "Philosophically bold—reframes God as internal wisdom. Thought-provoking for open-minded readers; controversial for traditionalists.",
+    "tags": ["philosophy","self-help","christian","faith", "presence", "consciousness", "mindfulness", "inner journey", "energy","spirituality"]
+    },
+
+    {
+    "title": "A New Earth ",
+    "Author": "Eckhart Tolle",
+    "genre": ["spiritual"],
+    "Rating": "4.18 ⭐",
+    "Approximate_reading_time": 8,
+    "Pages": "~330 pages",
+    "summary": "A follow-up to The Power of Now, this book focuses on transcending ego-based living to create a more conscious, awakened society. Tolle explores how letting go of identity attachments leads to spiritual and societal transformation.",
+    "verdict": "A deeper, more expansive follow-up to The Power of Now. Encourages ego transcendence and conscious evolution.It’s ideal for those seeking deeper spiritual insight and a more peaceful, meaningful existence.",
+    "tags": ["self-help","psychology","philosophy", "presence", "consciousness", "mindfulness", "inner journey", "energy","spirituality"]
+    },
+
+    {
+    "title": "The Untethered Soul ",
+    "Author": "Michael A. Singer",
+    "genre": ["spiritual"],
+    "Rating": "4.21 ⭐",
+    "Approximate_reading_time": 5,
+    "Pages": "~200 pages",
+    "summary": "This spiritual guide explores how to free yourself from limiting thoughts and emotions by observing your inner voice rather than identifying with it. Singer encourages readers to let go, live in the present, and experience deeper joy and clarity.",
+    "verdict": "Michael Singer explores the idea of observing your thoughts rather than identifying with them, leading to inner peace and spiritual clarity. Straightforward spiritual guide to letting go of inner noise and achieving peace. It’s a must-read for those on a journey of self-awareness, healing, and inner freedom.",
+    "tags": ["meditation","self-help","psychology","philosophy","faith", "presence", "consciousness", "mindfulness", "dharma", "inner journey", "energy","spirituality"]
+    },
+
+    {
+    "title": "The Seat of the Soul ",
+    "Author": "Gary Zukav",
+    "genre": ["spiritual"],
+    "Rating": "4.03 ⭐",
+    "Approximate_reading_time": 6,
+    "Pages": "~290 pages",
+    "summary": "Zukav blends science, psychology, and spirituality to discuss how our souls evolve through choices based on love rather than fear. The book promotes authentic power and emotional awareness as the keys to a fulfilling life.",
+    "verdict": "A blend of psychology and spirituality focusing on intuition, intention, and soul alignment. Deep yet accessible.  A thought-provoking and inspiring read for those ready to explore consciousness, intuition, and emotional awareness.",
+    "tags": ["self-help","psychology","philosophy","faith", "presence", "consciousness", "mindfulness", "dharma", "inner journey", "energy","spirituality"]
+    },
+
+    {
+    "title": "A Brief History of Time",
+    "Author": "Stephen Hawking",
+    "genre": ["science","pop-science"],
+    "Rating": "4.25 ⭐",
+    "Approximate_reading_time": 5.5,
+    "Pages": "~250 pages",
+    "summary": "Stephen Hawking explores the origin, structure, and future of the universe in a surprisingly accessible way. Covering black holes, time, space, and the Big Bang, it offers mind-expanding insights into the cosmos and humanity’s place in it.",
+    "verdict": "A modern science classic that explores the universe's nature—time, black holes, and the Big Bang. Challenging but rewarding. A must-read for curious minds.",
+    "tags": ["cosmology", "physics", "genetics", "biology", "astronomy", "anatomy", "string theory","classic","philosophy","space","popular science"]
+    },
+
+    {
+    "title": "Astrophysics for People in a Hurry ",
+    "Author": "Neil deGrasse Tyson",
+    "genre": ["science","pop-science"],
+    "Rating": "4.08 ⭐",
+    "Approximate_reading_time": 5,
+    "Pages": "~220 pages",
+    "summary": "In this short, witty guide, Tyson breaks down complex topics like dark matter, quantum mechanics, and the Big Bang. It’s perfect for curious minds looking for a fast but engaging overview of modern astrophysics.",
+    "verdict": "Engaging and digestible intro to astrophysics. Tyson simplifies complex topics with humour. Great entry-level science read.",
+    "tags": ["space","history","popular science","education","cosmology", "physics", "genetics", "biology", "astronomy", "anatomy", "string theory", "medical ethics"]
+    },
+
+    {
+    "title": "The Gene",
+    "Author": "Siddhartha Mukherjee",
+    "genre": ["science","pop-science"],
+    "Rating": "4.4 ⭐",
+    "Approximate_reading_time": 12,
+    "Pages": "~600 pages",
+    "summary": "Mukherjee tells the story of genetics through a blend of science and personal narrative, tracing how our understanding of genes has evolved from Gregor Mendel’s pea plants to modern-day genetic engineering. The book explains how genes shape identity, behavior, and disease, while also warning of the ethical and societal consequences of manipulating them. It’s both informative and deeply human, making complex science accessible and thought-provoking.",
+    "verdict": "A sweeping and accessible history of genetics. Personal, informative, and well-paced. Ideal for readers interested in biology and medical science.",
+    "tags": ["history","popular science","education", "genetics", "biology", "anatomy","medical ethics","medical"]
+    },
+
+    {
+    "title": "Cosmos",
+    "Author": "Carl Sagan",
+    "genre": ["science","pop-science"],
+    "Rating": "4.5 ⭐",
+    "Approximate_reading_time": 10,
+    "Pages": "~400 pages",
+    "summary": "Carl Sagan blends science, philosophy, and wonder to explain the universe and our place in it. With poetic prose, he explores space exploration, evolution, and scientific discovery, making it both educational and deeply moving.",
+    "verdict": "A poetic, awe-inspiring celebration of science, space, and human potential. Deep and philosophical—an all-time favourite for science lovers. This is a must-read for anyone who wants to reconnect with the awe of existence and the vastness of space, while gaining a deep appreciation for science as a human endeavor.",
+    "tags": ["space","philosophy","classic","popular science","cosmology", "physics", "astronomy", "anatomy", "string theory"]
+    },
+
+    {
+    "title": "The Immortal Life of Henrietta Lacks ",
+    "Author": "Rebecca Skloot",
+    "genre": ["science","pop-science"],
+    "Rating": "4.15 ⭐",
+    "Approximate_reading_time": 9,
+    "Pages": "~380 pages",
+    "summary": "This powerful book tells the true story of Henrietta Lacks, a poor African-American woman whose cancer cells—taken without her knowledge in 1951—became one of the most important tools in medicine. Known as HeLa cells, they helped develop vaccines, treatments, and countless scientific breakthroughs. The book explores the deep ethical questions around race, consent, and medical research, blending science, history, and human emotion.",
+    "verdict": "A gripping true story of medical ethics, racism, and cell biology. Emotionally powerful and scientifically enlightening.",
+    "tags": ["history","biography", "medical", "genetics", "biology", "anatomy", "medical ethics"]
+    },
+
+    {
+    "title": "Why We Sleep ",
+    "Author": "Matthew Walker",
+    "genre": ["science","pop-science"],
+    "Rating": "4.4 ⭐",
+    "Approximate_reading_time": 8,
+    "Pages": "~370 pages",
+    "summary": "Neuroscientist Matthew Walker unpacks the science of sleep and its profound effects on health, learning, memory, and emotion. The book makes a strong case for prioritizing quality sleep as essential for a better life.",
+    "verdict": "Eye-opening and backed by data. You'll never view sleep the same way again. Highly practical and persuasive. Highly recommended for students, professionals, and anyone curious about optimizing brain and body performance.",
+    "tags": ["psychology","health", "neuroscience", "genetics", "biology", "sleep science", "anatomy", "medical","medical ethics"]
+    },
+
+    {
+    "title": "The Selfish Gene ",
+    "Author": "Richard Dawkins",
+    "genre": ["science","pop-science"],
+    "Rating": "4.17 ⭐",
+    "Approximate_reading_time": 7.5,
+    "Pages": "~360 pages",
+    "summary": "Dawkins introduces the idea that evolution is driven not by organisms but by genes striving to replicate themselves. He explains natural selection through a gene-centered lens, offering a radical and influential perspective on biology.",
+    "verdict": "Groundbreaking book on evolution and gene-centered selection. Dense in places but a cornerstone of evolutionary biology.  A perfect pick for curious readers who want to learn about human biology without a heavy dose of jargon—engaging, informative, and surprisingly fun.",
+    "tags": ["psychology", "philosophy", "genetics", "biology", "evolution", "popular science", "anatomy", "history", "medical ethics"]
+    },
+
+    {
+    "title": "Behave",
+    "Author": "Robert Sapolsky",
+    "genre": ["science","pop-science"],
+    "Rating": "4.4 ⭐",
+    "Approximate_reading_time": 15,
+    "Pages": "~800 pages",
+    "summary": "Behave dives deep into why humans act the way they do—from sudden aggression to acts of compassion—by tracing behavior all the way back through brain chemistry, hormones, childhood, culture, and even evolution. Sapolsky layers neuroscience, psychology, sociology, and anthropology to explain the complex roots of human behavior. It’s a dense but rewarding read that uncovers how split-second reactions are influenced by lifetimes of biology and experience.",
+    "verdict": "Monumental work blending neuroscience, psychology, and behavior. Dense but brilliantly explained—ideal for serious readers.",
+    "tags": ["anthropology", "psychology", "genetics", "biology", "philosophy", "anatomy","medical ethics","neuroscience"]
+    },
+
+    {
+    "title": "The Body: A Guide for Occupants ",
+    "Author": "Bill Bryson",
+    "genre": ["science","pop-science"],
+    "Rating": "4.31 ⭐",
+    "Approximate_reading_time": 10.5,
+    "Pages": "~460 pages",
+    "summary": "With curiosity and humor, Bryson takes readers on a tour of the human body—from skin to brain to microbes—explaining how it all works. It’s an entertaining, fact-filled celebration of human biology and our everyday miracles.",
+    "verdict": "Witty and richly informative tour of the human body. A science book that’s both educational and fun to read. This book is perfect for curious minds who want to understand their own body in a fun, digestible way. Bryson makes biology accessible and fascinating without being too technical. A great read for those who enjoy science with a side of wit and storytelling.",
+    "tags": ["medical",  "genetics", "biology", "anatomy","medical ethics"]
+    },
+
+    {
+    "title": "The Elegant Universe ",
+    "Author": "Brian Greene",
+    "genre": ["science","pop-science"],
+    "Rating": "4.33 ⭐",
+    "Approximate_reading_time": 10.5,
+    "Pages": "~460 pages",
+    "summary": "The Elegant Universe explores the cutting-edge world of theoretical physics, focusing on string theory as a possible 'theory of everything.' Greene explains complex concepts like relativity, quantum mechanics, and extra dimensions in a way that’s approachable for non-scientists, all while showing how they might be unified by tiny vibrating strings.",
+    "verdict": "An excellent introduction to string theory and modern physics. Challenging, but Greene makes abstract concepts as digestible as possible.",
+    "tags": ["cosmology", "physics", "astronomy","string theory","popular science","space","quantum theory","relativity"]
+    },
+
+    {
+    "title": "Start With Why ",
+    "Author": "Simon Sinek",
+    "genre": ["business","leadership"],
+    "Rating": "4.1 ⭐",
+    "Approximate_reading_time": 5.5,
+    "Pages": "~250 pages",
+    "summary": "This book explains that the most successful leaders and companies begin by asking 'Why?'—what’s their purpose, cause, or belief. By inspiring others through a strong sense of purpose rather than just selling products, they create lasting impact. Sinek’s 'Golden Circle' model (Why → How → What) is now a go-to strategy in branding and leadership.",
+    "verdict": "Inspires leaders to focus on purpose before tactics. Strong concept, slightly repetitive—but worth reading for clarity on mission-driven work.",
+    "tags": ["self-help","entrepreneurship","psychology","purpose", "teamwork", "management", "strategy", "OKRs", "communication", "feedback", "decision-making", "execution", "founding"]
+    },
+
+    {
+    "title": "Leaders Eat Last ",
+    "Author": "Simon Sinek",
+    "genre": ["business","leadership"],
+    "Rating": "4.09 ⭐",
+    "Approximate_reading_time": 7.5,
+    "Pages": "~350 pages",
+    "summary": "Drawing on biology, history, and real-world business stories, Sinek shows that great leaders create environments where people feel safe and valued. Just like in the military, leaders who protect and serve their teams—not themselves—build strong trust, loyalty, and performance. It's a call for empathetic, people-first leadership.",
+    "verdict": "Focuses on creating trust and safety in leadership environments. Recommended for team leaders, managers, and HR professionals.",
+    "tags": ["self-help","psychology","philosophy","purpose", "teamwork", "management", "strategy", "OKRs", "communication", "feedback", "decision-making", "execution", "founding"]
+    },
+
+    {
+    "title": "Good to Great ",
+    "Author": "Jim Collins",
+    "genre": ["business","leadership"],
+    "Rating": "4.12 ⭐",
+    "Approximate_reading_time": 7,
+    "Pages": "~320 pages",
+    "summary": "After five years of research, Collins reveals why only a few companies make the leap from being good to truly great. The answer lies in Level 5 Leadership (humble but determined leaders), disciplined culture, and a focus on what they can be best at. It's a deep dive into what separates average companies from lasting legends.",
+    "verdict": " One of the most cited business books. Backed by data, it explains why some companies outperform others. Strong insights on leadership and company culture. A must-read for anyone in business or leadership, packed with real-world examples, Highly recommended for those serious about building something that lasts.",
+    "tags": ["self-help","economics","purpose", "teamwork", "management", "strategy", "OKRs", "communication", "feedback", "decision-making", "execution", "founding"]
+    },
+
+    {
+    "title": "The Lean Startup ",
+    "Author": "Eric Ries",
+    "genre": ["business","leadership"],
+    "Rating": "4.11 ⭐",
+    "Approximate_reading_time": 7,
+    "Pages": "~330 pages",
+    "summary": "Drawing on biology, history, and real-world business stories, Sinek shows that great leaders create environments where people feel safe and valued. Just like in the military, leaders who protect and serve their teams—not themselves—build strong trust, loyalty, and performance. It's a call for empathetic, people-first leadership.",
+    "verdict": "Must-read for entrepreneurs and startup founders. Teaches build-measure-learn loop, MVPs, and validated learning. Clear, actionable, and practical.",
+    "tags": ["purpose", "teamwork", "management", "strategy", "OKRs", "communication", "feedback", "decision-making", "execution", "founding"]
+    },
+
+    {
+    "title": "Drive",
+    "Author": "Daniel Pink ",
+    "genre": ["business","leadership","motivational","leadership","career","education","skills"],
+    "Rating": "3.95 ⭐",
+    "Approximate_reading_time": 5,
+    "Pages": "~250 pages",
+    "summary": "Pink argues that traditional carrots-and-sticks don’t motivate people anymore. Instead, what drives us is: autonomy (freedom), mastery (getting better), and purpose (meaning). For leaders, it's a roadmap to inspire employees in a more human, lasting way.",
+    "verdict": "Explores what truly motivates people: autonomy, mastery, purpose. Backed by behavioral research. Ideal for leaders and educators.",
+    "tags": ["finance","education","leadership","entrepreneurship","self-help","psychology","success","belief", "life lessons", "self-confidence", "growth mindset","motivation", "inspiration", "confidence", "resilience","productivity","purpose", "teamwork", "management", "strategy", "OKRs", "communication", "feedback", "decision-making", "execution", "founding","skills", "career", "learning", "generalization", "talent", "study techniques", "skill acquisition"]
+    },
+
+    {
+    "title": "The Hard Thing About Hard Things ",
+    "Author": "Ben Horowitz",
+    "genre": ["business","leadership"],
+    "Rating": "4.21 ⭐",
+    "Approximate_reading_time": 6,
+    "Pages": "~300 pages",
+    "summary": "A no-nonsense guide to running startups, full of hard-won advice from Horowitz’s own struggles as a CEO. He covers how to handle layoffs, manage crises, and make decisions with no easy answers. It’s brutally honest, practical, and especially helpful for entrepreneurs and tech founders.",
+    "verdict": "Brutally honest, street-smart business advice from a tech CEO. Great for founders in high-pressure roles. Practical, raw, and engaging.",
+    "tags": ["entrepreneurship","self-help","biography","purpose", "management", "strategy", "OKRs", "communication", "decision-making", "execution", "founding"]
+    },
+
+    {
+    "title": "Measure What Matters",
+    "Author": "John Doerr",
+    "genre": ["business","leadership"],
+    "Rating": "3.98 ⭐",
+    "Approximate_reading_time": 6,
+    "Pages": "~320 pages",
+    "summary": "Measure What Matters explains the OKR (Objectives and Key Results) system—a goal-setting framework that helps organizations focus, align, and achieve better results. John Doerr shares how companies like Google, Intel, and nonprofits used OKRs to set ambitious goals, track progress, and stay accountable. The book combines practical guidance with case studies to show how clarity and measurement drive innovation and success.",
+    "verdict": "Introduction to OKRs (Objectives and Key Results). Excellent for goal-setting and tracking growth, especially in modern workplaces and startups.",
+    "tags": ["productivity","entrepreneurship","self-help", "management", "strategy", "OKRs", "communication", "feedback", "decision-making", "execution", "founding"]
+    },
+
+    {
+    "title": "Radical Candor ",
+    "Author": "Kim Scott",
+    "genre": ["business","leadership"],
+    "Rating": "4.06 ⭐",
+    "Approximate_reading_time": 5.5,
+    "Pages": "~280 pages",
+    "summary": "Radical Candor teaches leaders to be both caring and direct with their feedback. Kim Scott, drawing from her experiences at Google and Apple, argues that the best managers challenge their team while also showing personal care. The key is to avoid two extremes: being too aggressive or too passive.",
+    "verdict": "Helps managers give feedback that’s both caring and direct. Useful for team communication, performance reviews, and leadership coaching. A must-read for anyone managing people or working in teams. ",
+    "tags": ["psychology","communication","self-help", "teamwork", "management", "strategy", "OKRs", "communication", "feedback", "decision-making", "execution", "founding"]
+    },
+
+    {
+    "title": " Principles ",
+    "Author": "Ray Dalio",
+    "genre": ["business","leadership"],
+    "Rating": "4.10 ⭐",
+    "Approximate_reading_time": 11,
+    "Pages": "~600 pages",
+    "summary": "In Principles, billionaire investor Ray Dalio shares the core life and business principles that guided his success. He emphasizes radical honesty, thoughtful decision-making, and building systems to improve judgment. The book is split into life principles (personal growth and mindset) and work principles (how to create a strong, transparent organization).",
+    "verdict": "A deep look into life, work, and management principles from one of the world’s top investors. Dense but highly structured. Best read slowly. An insightful and structured read for anyone serious about self-improvement and leadership.",
+    "tags": ["self-help","philosophy","biography","economics","purpose", "teamwork", "management", "strategy", "OKRs", "communication", "feedback", "decision-making", "execution", "founding"]
+    },
+
+    {
+    "title": "Zero to One ",
+    "Author": "Peter Thiel",
+    "genre": ["business","leadership"],
+    "Rating": "4.15 ⭐",
+    "Approximate_reading_time": 4.5,
+    "Pages": "~220 pages",
+    "summary": "Thiel, a tech entrepreneur and PayPal co-founder, urges startups to create something entirely new rather than copy others. He shares bold ideas on innovation, competition, and building monopolies through unique products. If you're looking to build the future, this book will challenge how you think about success.",
+    "verdict": "Big ideas on innovation and creating monopoly-like startups. Philosophical and contrarian. Great food for thought for future founders.",
+    "tags": ["entrepreneurship","economics","philosophy","purpose", "teamwork", "management", "strategy", "OKRs", "communication", "feedback", "decision-making", "execution", "founding"]
+    },
+    
+    {
+    "title": "Can’t Hurt Me ",
+    "Author": "David Goggins",
+    "genre": ["motivational","inspirational"],
+    "Rating": "4.3 ⭐",
+    "Approximate_reading_time": 7.5,
+    "Pages": "~360 pages",
+    "summary": "David Goggins shares his unbelievable journey from adversity to becoming an elite Navy SEAL and ultramarathon runner. He shows how mental toughness, discipline, and embracing discomfort can help you push past limits. A raw and motivating read for anyone seeking to build resilience and grit.",
+    "verdict": "A raw, intense memoir of mental toughness and resilience. Brutal honesty and tough love—ideal for self-discipline and grit.",
+    "tags": ["self-help","biography","autobiography","military fiction","psychology","grit", "success", "positive thinking", "belief", "life lessons", "self-confidence", "growth mindset","motivation", "inspiration", "confidence", "resilience"]
+    },
+
+    {
+    "title": "The Magic of Thinking Big ",
+    "Author": "David J. Schwartz",
+    "genre": ["motivational","inspirational"],
+    "Rating": "4.26 ⭐",
+    "Approximate_reading_time": 8,
+    "Pages": "~380 pages",
+    "summary": "Schwartz inspires readers to think bigger, act bolder, and support their ambitions with belief and confidence. He shares practical techniques to overcome negativity and build habits of success. The message: size your thinking to match your potential.",
+    "verdict": "Classic motivational thinking. Encourages bold action, self-belief, and bigger goals. A bit dated in tone but timeless in message. Absolutely worth reading if you're feeling stuck, undisciplined, or in need of a serious motivational jolt—expect to be challenged and inspired.",
+    "tags": ["psychology","productivity","philosophy","leadership","entrepreneurship","success", "positive thinking", "belief", "life lessons", "self-confidence", "growth mindset","motivation", "inspiration", "confidence", "resilience"]
+    },
+
+    {
+    "title": "You Can Win ",
+    "Author": "Shiv Khera",
+    "genre": ["motivational","inspirational"],
+    "Rating": "3.9 ⭐",
+    "Approximate_reading_time": 6,
+    "Pages": "~300 pages",
+    "summary": "Khera delivers motivational lessons rooted in ethics, attitude, and positive thinking using simple, relatable stories. The book encourages personal responsibility, goal setting, and building self-esteem. Especially popular in India, it offers practical steps toward walking the path of success.",
+    "verdict": "Very popular in India. Inspirational and easy to follow, with a focus on ethics, attitude, and goal-setting. Good for beginners in self-help.",
+    "tags": [ "success", "positive thinking", "belief", "life lessons", "self-confidence", "growth mindset","motivation", "inspiration", "confidence", "resilience","literature","productivity","philosophy","self-help","education"]
+    },
+
+    {
+    "title": "The Last Lecture",
+    "Author": "Randy Pausch",
+    "genre": ["motivational","inspirational"],
+    "Rating": "4.26 ⭐",
+    "Approximate_reading_time": 4,
+    "Pages": "~200 pages",
+    "summary": "Facing terminal illness, Carnegie Professor Randy Pausch shares life lessons he wished to pass on—including the importance of dreaming big, loyalty, and overcoming obstacles. His reflections are full of optimism, gratitude, and wisdom. A brief but deeply moving guide to what really matters.",
+    "verdict": "Touching and inspirational memoir from a dying professor. Short, sweet, and full of life advice that hits hard. Highly recommended—this book is touching, uplifting, and a beautiful reminder to cherish every moment and chase your dreams with integrity.",
+    "tags": ["success", "positive thinking", "belief", "life lessons", "self-confidence", "growth mindset","motivation", "inspiration", "confidence", "resilience","biography","philosophy","autobiography","self-help"]
+    },
+
+    {
+    "title": "Think and Grow Rich ",
+    "Author": "Napoleon Hill",
+    "genre": ["motivational","inspirational"],
+    "Rating": "4.17 ⭐",
+    "Approximate_reading_time": 6,
+    "Pages": "~300 pages",
+    "summary": "Hill compiles insights from over 500 successful individuals to teach how belief, focus, and persistence lead to achievement. Although written in the 1930s, it remains influential for its emphasis on using your thoughts as a tool for wealth and success. A mindset-driven blueprint for setting and achieving big goals.",
+    "verdict": "Timeless success principles. Heavy on mindset and belief. Repetitive but historically significant in the self-help world.",
+    "tags": ["psychology","finance","self-help", "success", "positive thinking", "belief", "life lessons", "self-confidence", "growth mindset","motivation", "inspiration", "confidence", "resilience"]
+    },
+
+    {
+    "title": "Outliers",
+    "Author": "Malcolm Gladwell ",
+    "genre": ["career","skills","education","psychology","human behaviour"],
+    "Rating": "4.19 ⭐",
+    "Approximate_reading_time": 6.5, 
+    "Pages": "~330 pages",
+    "summary": "Outliers reveals that extraordinary success is not just about talent or effort, but also about hidden advantages like timing, culture, and family background. Gladwell introduces the 10,000-hour rule, showing that mastering a skill requires deep practice and the right opportunities. Success, he argues, is a product of both personal drive and external circumstances.",
+    "verdict": "Investigates success stories through context, culture, and timing. Famous for the “10,000 hour rule.” Engaging and insightful. Great for Students, career builders, educators, or anyone interested in the real story behind high achievers.",
+    "tags": ["skills", "learning", "education", "craft", "talent", "study techniques", "skill acquisition","mental health","leadership","philosophy","science", "psychology", "personality","decision-making", "behavior"]
+    },
+
+    {
+    "title": "So Good They Can’t Ignore You ",
+    "Author": "Cal Newport",
+    "genre": ["career","skills","education"],
+    "Rating": "4.07 ⭐",
+    "Approximate_reading_time": 5.5,
+    "Pages": "~300 pages",
+    "summary": "Cal Newport argues that 'follow your passion' is bad advice. Instead, real career success comes from building rare and valuable skills, becoming excellent at what you do, and gaining control over your work through mastery.",
+    "verdict": "Argues against “follow your passion”—focus instead on building rare, valuable skills. Practical and paradigm-shifting. Highly recommended — this book is a game-changer for anyone feeling lost or stuck in their career path. Smart, practical, and eye-opening.",
+    "tags": ["skills", "career", "learning", "education", "generalization", "craft", "talent", "study techniques", "skill acquisition","productivity","philosophy","leadership","self-help"]
+    },
+
+    {
+    "title": "The Subtle Art of Not Giving a F*ck ",
+    "Author": "Mark Manson",
+    "genre": ["career","skills","education"],
+    "Rating": "3.87 ⭐",
+    "Approximate_reading_time": 4.5,
+    "Pages": "~240 pages",
+    "summary": "Manson encourages readers to stop chasing constant positivity and embrace life’s struggles. He teaches how to choose what truly matters, take responsibility, and live more honestly—even if that means caring less about what doesn’t matter.",
+    "verdict": "Blunt, humorous approach to prioritizing values. Encourages emotional maturity and clarity. A modern self-help staple. Definitely worth reading — if you’re tired of cheesy motivation, this book offers clarity and peace in embracing life’s struggles.",
+    "tags": ["psychology","skills", "career", "learning", "education", "generalization", "craft", "talent", "study techniques", "skill acquisition","philosophy","self-help","humour"]
+    },
+
+    {
+    "title": "Range ",
+    "Author": "David Epstein",
+    "genre": ["career","skills","education"],
+    "Rating": "4.13 ⭐",
+    "Approximate_reading_time": 7,
+    "Pages": "~350 pages",
+    "summary": "Range shows that generalists—those who explore broadly and learn across domains—often outperform specialists in the long run. Epstein highlights how diverse experiences build creativity, adaptability, and long-term success.",
+    "verdict": "Makes a powerful case for generalists over specialists. Inspiring for students, career switchers, and polymaths.",
+    "tags": ["psychology","skills", "career", "learning", "education", "generalization", "craft", "talent", "study techniques", "skill acquisition","self-help","leadership","leadership"]
+    },
+
+    {
+    "title": "The First 20 Hours ",
+    "Author": "Josh Kaufman",
+    "genre": ["career","skills","education"],
+    "Rating": "3.46 ⭐",
+    "Approximate_reading_time": 5.5,
+    "Pages": "~290 pages",
+    "summary": "Kaufman breaks down how to learn new skills quickly by focusing on just the first 20 hours of practice. With smart preparation, focused effort, and removing distractions, you can go from zero to functional in almost anything.",
+    "verdict": "A toolkit for learning new skills quickly. Not “mastery,” but getting functional fast. Very actionable and motivating. Worth a read — if you’re someone who wants to learn fast and efficiently, this book gives you a great starting strategy.",
+    "tags": ["skills", "career", "learning", "education", "generalization", "craft", "talent", "study techniques", "skill acquisition","self-help","productivity","psychology","philosophy","education"]
+    },
+
+    {
+    "title": "The Talent Code ",
+    "Author": "Daniel Coyle",
+    "genre": ["career","skills","education"],
+    "Rating": "4.03 ⭐",
+    "Approximate_reading_time": 5,
+    "Pages": "~250 pages",
+    "summary": "Coyle explores how deep practice, ignition (motivation), and master coaching shape great talent. He explains how building skill is like growing myelin in the brain—and how anyone can use these methods to improve fast.",
+    "verdict": "Explains how talent is grown via deep practice, coaching, and motivation. Useful for athletes, teachers, and learners.",
+    "tags": ["skills", "career", "learning", "education", "generalization", "craft", "talent", "study techniques", "skill acquisition","self-help","productivity","psychology","education","science"]
+    },
+
+    {
+    "title": "Teach Yourself How to Learn ",
+    "Author": "Saundra Yancy McGuire",
+    "genre": ["career","skills","education"],
+    "Rating": "4.16 ⭐",
+    "Approximate_reading_time": 5,
+    "Pages": "~240 pages",
+    "summary": "This book teaches students how to study smarter by using metacognition—thinking about how they learn. With simple strategies and mindset shifts, McGuire shows how anyone can improve their learning and academic success.",
+    "verdict": "A practical and empowering book for students. Helps develop metacognition, study skills, and learning strategies. The book's Definitely worth it — practical, encouraging, and easy to implement, it’s a fantastic guide for any learner who wants to do better with less stress.",
+    "tags": ["skills", "career", "learning", "education", "generalization", "craft", "talent", "study techniques", "skill acquisition","education","productivity","psychology"]
+    }
+    
+]

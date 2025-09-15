@@ -1,0 +1,55 @@
+intent,pattern,response
+greeting,hi,Hello! How can I help you today?
+greeting,hello,Hello! How can I help you today?
+greeting,hey,Hello! How can I help you today?
+greeting,good morning,Hello! How can I help you today?
+greeting,good evening,Hello! How can I help you today?
+greeting,whats up,Hello! How can I help you today?
+greeting,how are you,Hello! How can I help you today?
+greeting,yo,Hello! How can I help you today?
+greeting,hiya,Hello! How can I help you today?
+greeting,namaste,Hello! How can I help you today?
+
+random_book,suggest me a book,📚 Here’s a book suggestion!
+random_book,recommend something,📚 Here’s a book suggestion!
+random_book,give me a random book,📚 Here’s a book suggestion!
+random_book,which book should i read,📚 Here’s a book suggestion!
+random_book,any good book,📚 Here’s a book suggestion!
+random_book,what should i read next,📚 Here’s a book suggestion!
+random_book,recommend a classic,📚 Here’s a book suggestion!
+random_book,recommend a productivity book,📚 Here’s a book suggestion!
+random_book,recommend psychology book,📚 Here’s a book suggestion!
+random_book,recommend inspirational book,📚 Here’s a book suggestion!
+
+author,who wrote *,Let me check the author for you.
+author,author of *,Let me check the author for you.
+author,who is the writer of *,Let me check the author for you.
+author,writer of *,Let me check the author for you.
+author,who is the author of *,Let me check the author for you.
+
+pages,how many pages in *,Let me check the page count.
+pages,total pages of *,Let me check the page count.
+pages,length of *,Let me check the page count.
+pages,page count of *,Let me check the page count.
+pages,number of pages in *,Let me check the page count.
+pages,how long is *,Let me check the page count.
+
+rating,rating of *,Here’s the rating info.
+rating,how is * rated,Here’s the rating info.
+rating,goodreads rating of *,Here’s the rating info.
+rating,average rating of *,Here’s the rating info.
+rating,what is the rating of *,Here’s the rating info.
+
+summary,what is * about,Here’s the summary.
+summary,summary of *,Here’s the summary.
+summary,can you summarize *,Here’s the summary.
+summary,tell me about *,Here’s the summary.
+summary,give me the summary of *,Here’s the summary.
+summary,short summary of *,Here’s the summary.
+
+verdict,is * worth reading,Here’s the verdict.
+verdict,should i read *,Here’s the verdict.
+verdict,is * any good,Here’s the verdict.
+verdict,should i skip *,Here’s the verdict.
+verdict,is * recommended,Here’s the verdict.
+verdict,verdict on *,Here’s the verdict.

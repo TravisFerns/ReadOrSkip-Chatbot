@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Read or Skip</title>
+  <style>
+  
+  body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  /* Background image */
+  background: url("{{ url_for('static', filename='pexels.jpg') }}") no-repeat center center fixed;
+  background-size: cover;
+  position: relative;
+}
+
+/* Dark overlay so text stays readable */
+body::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(18, 18, 18, 0.7); /* adjust darkness */
+  z-index: 0;
+}
+
+/* Put chat container on top of overlay */
+#chatContainer {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  max-width: 900px;
+  min-width: 350px;
+  height: 85vh;
+  position: relative;
+  z-index: 1;
+}
+
+/* Chatbox */
+#chatbox {
+  background-color: rgba(18, 18, 18, 0.85); /* slightly transparent */
+  padding: 15px;
+  flex: 1;
+  overflow-y: auto;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  box-shadow: 0px 4px 15px rgba(0,0,0,0.4);
+}
+
+/* Message bubbles */
+.message {
+  max-width: 75%;
+  padding: 10px 15px;
+  border-radius: 16px;
+  line-height: 1.4;
+  animation: fadeIn 0.3s ease-in-out;
+  word-wrap: break-word;
+}
+
+.botText {
+  background: #2a2d3e;
+  color: #f0f0f0;
+  align-self: flex-start;
+  border-bottom-left-radius: 4px;
+}
+
+.userText {
+  background: #4cafef;
+  color: #fff;
+  align-self: flex-end;
+  border-bottom-right-radius: 4px;
+}
+
+/* Input area (always at bottom of container) */
+#inputArea {
+  display: flex;
+  margin-top: 12px;
+  gap: 8px;
+}
+
+#userInput {
+  flex: 1;
+  padding: 12px;
+  border-radius: 20px;
+  border: none;
+  outline: none;
+  background: #1e1e1e;
+  color: #fff;
+  font-size: 15px;
+}
+
+#sendButton {
+  background: #4cafef;
+  border: none;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  cursor: pointer;
+  color: white;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: 0.2s;
+}
+
+#sendButton:hover {
+  background: #42a5f5;
+}
+
+/* Fade-in animation */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(5px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Typing indicator */
+.typing {
+  background: #2a2d3e;
+  color: #bbb;
+  align-self: flex-start;
+  border-bottom-left-radius: 4px;
+  font-style: italic;
+}
+
+/* Mobile responsive */
+@media (max-width: 600px) {
+  #chatContainer {
+    width: 95%;
+    height: 90vh;
+  }
+}
+  </style>
+</head>
+<body>
+
+  <!-- ✅ Chat container wrapper -->
+  <div id="chatContainer">
+    <div id="chatbox">
+      <div class="botText message">Hi! I’m your book guide. Ask me about any book, genre, or reading suggestion.</div>
+    </div>
+
+    <div id="inputArea">
+      <input id="userInput" type="text" placeholder="Type your message..." autocomplete="off">
+      <button id="sendButton">📨</button>
+    </div>
+  </div>
+
+  <script>
+    async function sendMessage() {
+      let userInput = document.getElementById("userInput").value;
+      if (userInput.trim() === "") return;
+
+      // Add user message
+      addMessage(userInput, "userText");
+      document.getElementById("userInput").value = "";
+
+      // Add typing indicator
+      let typingEl = addMessage("Bot is typing...", "typing");
+
+      try {
+        let res = await fetch("/get", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ message: userInput })
+        });
+
+        let data = await res.json();
+
+        // Remove typing indicator
+        typingEl.remove();
+
+        // Show bot’s reply
+        addMessage(data.response, "botText");
+      } catch (err) {
+        typingEl.remove();
+        addMessage("⚠️ Error: could not reach server.", "botText");
+      }
+    }
+
+    function addMessage(text, className) {
+      let chatBox = document.getElementById("chatbox");
+      let msg = document.createElement("div");
+      msg.className = "message " + className;
+      msg.innerText = text;
+      chatBox.appendChild(msg);
+
+      // ✅ Auto-scroll to latest message
+      chatBox.scrollTop = chatBox.scrollHeight;
+
+      return msg;
+    }
+
+    // Send on button click
+    document.getElementById("sendButton").addEventListener("click", sendMessage);
+
+    // Send on pressing Enter
+    document.getElementById("userInput").addEventListener("keypress", function (e) {
+      if (e.key === "Enter") {
+        sendMessage();
+      }
+    });
+  </script>
+
+</body>
+</html>
